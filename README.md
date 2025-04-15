@@ -92,5 +92,3 @@ Enjoy the game!
 
 ![run](./img/run.png)
 
-
-](path) 
